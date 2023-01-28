@@ -8,7 +8,7 @@
 
 - 📫 Você me encontra através do e-mail **roseli.mazeto.andrade@gmail.com**   
 
-- 📄 Experiência em atendimento e suporte ao cliente 🙆
+- 📄 Experiência em atendimento, controle de caixa,auxiliar administrativo, secretária particular,atendimento ao usuário, manutenção de computadores,suporte ao cliente 🙆
  
 </div>
 <h3 align="left">Languages and Tools:</h3>
