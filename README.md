@@ -8,7 +8,7 @@
 
 - 📫 Você me encontra através do e-mail **roseli.mazeto.andrade@gmail.com**   
 
-- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente 🙆
+- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
  
 </div>
 <h3 align="left">Languages and Tools:</h3>
