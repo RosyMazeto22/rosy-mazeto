@@ -9,6 +9,11 @@
 - 📫 Você me encontra através do e-mail **roseli.mazeto.andrade@gmail.com**   
 
 - 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roseli-aparecida-andrade-73049518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roseli-aparecida-andrade-73049518b/" height="30" width="40" /></a>
+</p>
  
 </div>
 <h3 align="left">Languages and Tools:</h3>
