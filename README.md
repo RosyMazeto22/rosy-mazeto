@@ -8,7 +8,7 @@
 - 💬 Estou sempre a procura de novas oportunidades. Me pergunte sobre **suporte e programação **
   
 
-- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
+- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem,cursando também linguagens HTML, JAVA, JAVASCRIPT, PYTHON.🙆
 
  
 </div>
