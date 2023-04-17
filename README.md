@@ -1,6 +1,13 @@
 <h1 align="center">Olá👋, Eu sou a Roseli Aparecida Andrade</h1>
-<h3 align="center">Apaixonada por tecnologia,e,atualmente estudando Análise e Desenvolvimento de Sistemas 😍💻</h3>
-- 🔭No momento,fazendo estágio em Técnico de Suporte de T.I  na Prefeitura Municipal de Sacramento MG**
+<h3 align="center">Apaixonada por tecnologia 😍💻
+
+</h3>
+
+- Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 😍💻
+
+-  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.🙆
+
+- 🔭  Técnico de Suporte de T.I **
 
 - 🌱 Estou aprendendo Montagem e Manutenção de computadores,administração de servidor, **Infraestrututa, Segurança da Informação, Computação em Nuvem, Administração de Redes, programas, cadastros, análise e resolução de falhas e instalação de antivírus.**
                  
@@ -8,7 +15,8 @@
 - 💬 Estou sempre a procura de novas oportunidades. Me pergunte sobre **suporte e programação **
   
 
-- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem,cursando também linguagens HTML, JAVA, JAVASCRIPT, PYTHON,dentre outras linguagens.🙆
+- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.
+
 
  
 </div>
