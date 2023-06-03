@@ -5,7 +5,7 @@
 
 - Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 😍💻
 
--  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.🙆
+-  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
 
 - 🔭  Técnico de Suporte de T.I **
 
@@ -15,8 +15,7 @@
 - 💬 Estou sempre a procura de novas oportunidades. Me pergunte sobre **suporte e programação **
   
 
-- 📄 Experiência em atendimento,manutenção de computadores,suporte ao cliente. Conhecimento em Pacote Office, Excel – Intermediário, Montagem e Manutenção de Computadores.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.
-
+- 📄 Experiência em atendimento,apoio ao usuário,instalação de softwares, administração de redes, configuração, administração de Firewall sistema de segurança com antivírus,Montagem e manutenção de computadores, instalação de programas, atualizações de Bethas (Betha compras, Betha Sapo, Betha folhas, tributo, entre outros); Instalação de programas, ativação e configuração de antivírus e cadastros.
 
  
 </div>
