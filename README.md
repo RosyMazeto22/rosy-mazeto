@@ -7,9 +7,9 @@
 
 -  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
 
-- 🔭  Técnico de Suporte de T.I **
+- 🔭  Técnico de Suporte de T.I / Desenvolvedor | Programador **
 
-- 🌱 Estou aprendendo Montagem e Manutenção de computadores,administração de servidor, **Infraestrututa, Segurança da Informação, Computação em Nuvem, Administração de Redes, programas, cadastros, análise e resolução de falhas e instalação de antivírus.**
+- 🌱 Montagem e Manutenção de computadores,administração de servidor, **Infraestrututa, Segurança da Informação, Computação em Nuvem, Administração de Redes, programas, cadastros, análise e resolução de falhas e instalação de antivírus.**
                  
 
 - 💬 Estou sempre a procura de novas oportunidades. Me pergunte sobre **suporte e programação **
