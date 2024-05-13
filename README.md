@@ -7,7 +7,7 @@
 
 -  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
 
-- 🔭  Técnico de Suporte de T.I / Desenvolvedor | Programador **
+- 🔭  Técnico de Suporte de T.I / Desenvolvedora Web **
 
 - 🌱 Montagem e Manutenção de computadores,administração de servidor, **Infraestrututa, Segurança da Informação, Computação em Nuvem, Administração de Redes, programas, cadastros, análise e resolução de falhas e instalação de antivírus.**
                  
