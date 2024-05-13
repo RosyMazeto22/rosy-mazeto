@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou a Roseli Aparecida Andrade</h1>
-<h3 align="center"><h3 align="center">Desenvolvedora Web apaixonada por tecnologia 😍💻</h3>
+<h3 align="center"><h3 align="center">Desenvolvedora Web 😍💻</h3>
 
 </h3>
 
