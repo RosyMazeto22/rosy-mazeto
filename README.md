@@ -3,7 +3,7 @@
 
 </h3>
 
-- Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 😍💻
+- Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 😍💻
 
 -  Curso em andamento na RL System-Escola para Programadores nas seguintes linguagens: HTML, JAVA, JAVASCRIPT, PYTHON, Banco de Dados, Front-end, .Net , IOS Lógica de Programaçãp, dentre outras linguagens.Cursando Arquitetura de Rede,e, Cloud Computing - AWS, Google Cloud e Azure - Dados na nuvem.🙆
 
